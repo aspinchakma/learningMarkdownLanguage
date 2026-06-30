@@ -182,7 +182,7 @@ Athe the command prompt, type `nano`
 
 ## Links
 
-#### Visit My Linkedn [Profile](www.linkedin.com/in/aspin-chakma)
+#### Visit My Linkedin [Profile](www.linkedin.com/in/aspin-chakma)
 
 #### Visit My Github [Profile](https://github.com/aspinchakma)
 
@@ -191,3 +191,13 @@ Athe the command prompt, type `nano`
 ## Adding Titles
 
 #### Visit My Github [Profile](https://github.com/aspinchakma "Aspin Chakma Github Profile Link")
+
+### URLs and Email Addresses
+
+<https://github.com/aspinchakma>
+<aspinchakma2019@gmail.com>
+
+### Formating Links
+
+This is my Github **[Profile](https://github.com/aspinchakma)**
+This is the Linkedin _[profile](https://linkedin.com/in/aspin-chakma)_
