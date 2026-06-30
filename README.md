@@ -128,3 +128,24 @@ A _cat_ meow
 - Here's the second list item.
   > A blockquote would look great here.
 - And here's the third list item.
+
+## Code Blocks
+
+1. Open the file.
+2. Find the following code block on line21:
+
+```html
+<html>
+  <head>
+    <title>Test</title>
+  </head>
+</html>
+```
+
+```javascript
+function addTwoNumbers(a, b) {
+  return a + b;
+}
+```
+
+3. Update the title to match the name of your webiste
