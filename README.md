@@ -187,3 +187,7 @@ Athe the command prompt, type `nano`
 #### Visit My Github [Profile](https://github.com/aspinchakma)
 
 #### Visit My Portfolio [Website](https://aspinchakma.netlify.app/)
+
+## Adding Titles
+
+#### Visit My Github [Profile](https://github.com/aspinchakma "Aspin Chakma Github Profile Link")
