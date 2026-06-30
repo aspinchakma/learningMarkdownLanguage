@@ -156,3 +156,18 @@ function addTwoNumbers(a, b) {
 2. Marvel at its beauty.
    ![Cyber Security Solutions Engineer Banner](images/8.jpg)
 3. Close the file
+
+## Code
+
+Athe the command prompt, type `nano`
+
+## Escaping Tick Marks
+
+`` Use `code` in your Markdown file.``
+
+## Code Blocks
+
+    <html>
+        <head>
+        </head>
+    <html>
