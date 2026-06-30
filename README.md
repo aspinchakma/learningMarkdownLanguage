@@ -60,3 +60,71 @@ A _cat_ meow
 > This is the first paragraph.
 >
 > > And this is the nested paragraph.
+
+## Learning List
+
+---
+
+### Ordered List
+
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
+5. First item
+6. Second item
+7. Third item
+8. Fourth item
+
+**_Nesting List Items_**
+
+1. First item
+2. Second item
+3. Third item
+   1. Indented item
+   2. Indented item
+4. Fourth item
+
+### Unordered Lists
+
+- First Item
+- Second Item
+- Third Item
+- Fourth Item
+
+* First Item
+* Second item
+* Third Item
+* Fourth Item
+
+- First Item
+
+* Second Item
+
+- Third Item
+
+* Fourth Item
+  **_Nesting List Items_**
+
+- First item
+- Second item
+- Third item
+  - Indented item
+  - Indented item
+- Fourth item
+
+### Adding Elements in Lists
+
+**_Paragraphs_**
+
+- This is the first list item
+- Here's the second list item.
+  I Need to add another paragraph below the second list item.
+- And here's the third list item.
+
+**_Blockquotes_**
+
+- This is the first list item.
+- Here's the second list item.
+  > A blockquote would look great here.
+- And here's the third list item.
