@@ -201,3 +201,9 @@ Athe the command prompt, type `nano`
 
 This is my Github **[Profile](https://github.com/aspinchakma)**
 This is the Linkedin _[profile](https://linkedin.com/in/aspin-chakma)_
+
+### Escaping Charackters
+
+\* without the backslash, this would be a bullet in an unordered list.
+
+- without the backslash, this is a bullet in an unordered list.
