@@ -171,3 +171,11 @@ Athe the command prompt, type `nano`
         <head>
         </head>
     <html>
+
+## Horizontal Rules
+
+---
+
+---
+
+---
