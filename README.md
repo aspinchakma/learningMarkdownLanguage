@@ -149,3 +149,10 @@ function addTwoNumbers(a, b) {
 ```
 
 3. Update the title to match the name of your webiste
+
+## Images
+
+1. Open the file containing Images.
+2. Marvel at its beauty.
+   ![Cyber Security Solutions Engineer Banner](images/8.jpg)
+3. Close the file
